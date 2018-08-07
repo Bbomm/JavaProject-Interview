@@ -1,6 +1,6 @@
 # JavaProject-Interview
 
-###### This Java project is simple interviewing as 'ask and answer the questions'.
+##### This Java project is simple interviewing as 'ask and answer the questions'.
 #### It only works in the program like IntelliJ or eclipse.
 
 #### You can create a new account and all of your personal information will be serialized as text.
